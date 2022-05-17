@@ -86,6 +86,10 @@ PRODUCT_PACKAGES += \
     nos_app_weaver:64 \
     pixelpowerstats_provider_aidl_interface-cpp.vendor:64
 
+# Overlays
+PRODUCT_PACKAGES += \
+    HbmSVManagerOverlayLynx
+
 # Sensors
 PRODUCT_PACKAGES += \
     android.hardware.sensors@1.0.vendor \
