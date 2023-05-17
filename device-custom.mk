@@ -91,7 +91,8 @@ PRODUCT_PACKAGES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
-    HbmSVManagerOverlayLynx
+    HbmSVManagerOverlayLynx \
+    PDFrameworksOverlayLynx
 
 # Sensors
 PRODUCT_PACKAGES += \
